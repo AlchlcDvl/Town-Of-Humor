@@ -30,6 +30,7 @@ I think I may have gone off the handle to go out of my way to edit the achievmen
 # Misc Changes!
 - Changed 'Scrolls' to 'Luck Stat Boosts'!
 - Changed 'Taunts' to 'Provocations'!
+- Made stats to be more consistent
 
 # Fixes!
 - Fixed errors in the base xml file!
@@ -38,3 +39,29 @@ I think I may have gone off the handle to go out of my way to edit the achievmen
 - Better puntuation and capitalisation! (looks at stats)
 - Spelling errors in the base xml file have been fixed!
 - Fixed the story a bit!
+
+# Credits
+- Shadow Dior and Tuba Antics for teaching me how to edit xml files
+- Misify for teaching me how to color code, you can download their QoL Town of Salem mod here - https://github.com/Misfiy/ToS-QoL/
+- BlankMediaGames for making Town of Salem - https://blankmediagames.com/TownOfSalem/
+
+# Installation
+1. Download the .rar file.
+2. Open your Steam.
+3. Find 'Town Of Salem' and right click it.
+4. Go to 'Manage' ---> 'Browse Local Files'
+5. Now open your Downloads or which ever folder the .rar file is saved in in a different window.
+6. Move the .rar file into the game files folder and extract.
+7. Accept the prompt for replacing an existing file, and you're good to go!
+
+# Uninstallation
+1. Open your Steam.
+2. Find 'Town Of Salem' and right click it.
+3. Go to 'Manage' ---> 'Browse Local Files'
+4. Follow the folder path 'TownOfSalem_Data' ---> 'StreamingAssets' ---> 'res' ---> 'WebAssets' ---> 'XMLData'.
+5. In the 'XMLData' folder find the file with the name 'StringTable.en-US.xml'.
+6. Delete that file and look for the file with the name 'StringTable.en-US-DEFAULT.xml'
+7. Rename the file by removing the '-DEFAULT' from its name, and you good to go!
+
+# Other
+Need help regarding the file? Join my Discord! [I have yet to make a Discord, but it's in the making]
