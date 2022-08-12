@@ -41,7 +41,7 @@ I think I may have gone off the handle to go out of my way to edit the achievmen
 - Fixed the story a bit!
 
 # Credits
-- Shadow Dior and Tuba Antics for teaching me how to edit xml files
+- Shadow Dior (https://www.youtube.com/c/ShadowDior) and Tuba Antics (https://www.youtube.com/c/TubaAntics) for teaching me how to edit xml files
 - Misify for teaching me how to color code, you can download their QoL Town of Salem mod here - https://github.com/Misfiy/ToS-QoL/
 - BlankMediaGames for making Town of Salem - https://blankmediagames.com/TownOfSalem/
 
