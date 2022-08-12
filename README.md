@@ -30,7 +30,8 @@ I think I may have gone off the handle to go out of my way to edit the achievmen
 # Misc Changes!
 - Changed 'Scrolls' to 'Luck Stat Boosts'!
 - Changed 'Taunts' to 'Provocations'!
-- Made stats to be more consistent
+- Made stats to be more consistent!
+- Changed buttons as well!
 
 # Fixes!
 - Fixed errors in the base xml file!
@@ -39,6 +40,8 @@ I think I may have gone off the handle to go out of my way to edit the achievmen
 - Better puntuation and capitalisation! (looks at stats)
 - Spelling errors in the base xml file have been fixed!
 - Fixed the story a bit!
+- Made the Patch Notes appear a wee bit neater!
+- Fixed the formatting of several messages!
 
 # Credits
 - Shadow Dior (https://www.youtube.com/c/ShadowDior) and Tuba Antics (https://www.youtube.com/c/TubaAntics) for teaching me how to edit xml files
@@ -65,3 +68,4 @@ I think I may have gone off the handle to go out of my way to edit the achievmen
 
 # Other
 Need help regarding the file? Join my Discord! [I have yet to make a Discord, but it's in the making]
+The first release will be later today, starting with v1.0beta!
