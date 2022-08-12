@@ -1,6 +1,6 @@
-## NOTE: This is a Steam-only mod for Town of Salem, it will *NOT WORK* on other platforms.
+# NOTE: This is a Steam-only mod for Town of Salem, it will *NOT WORK* on other platforms.
 
-## Changes
+# Changes
 
 # Roles!
 Roles have been renamed to add to the haha funni factor! Here they are and their new names.
