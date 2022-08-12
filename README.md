@@ -5,6 +5,78 @@
 # Roles!
 Roles have been renamed to add to the haha funni factor! Here they are and their new names.
 
+-----------------------
+| Original Role | New Role |
+| ------------- | -------- |
+| Bodyguard | Manly Man |
+| Doctor | Healy Wheely |
+| Crusader | Baguette Knight |
+| Trapper | Cracked Lumberjack |
+| Veteran | Angry Military Man |
+| Vigilante | American |
+| Jailor | Kidnapper |
+| Vampire Hunter | Doom Guy |
+| Investigator | Good Cop |
+| Sheriff | Bad Cop |
+| Lookout | Peeping Tom |
+| Spy | Bames Jond |
+| Tracker | Stalker |
+| Psychic | Drug Addict |
+| Transporter | Human Trafficker |
+| Mayor | Tax Evader |
+| Escort | Cringelord For Sale |
+| Medium | Schizophrenic |
+| Retributionist | Good Necrophile |
+| Godfather | Overpaid |
+| Mafioso | Underpaid |
+| Ambusher | Spooker |
+| Disguiser | Stylist |
+| Janitor | Housekeeping |
+| Forger | School Nerd |
+| Hypnotist | Liar |
+| Consigliere | Evil Cop |
+| Consort | Pizza Lover For Sale |
+| Blackmailer | Mailman |
+| Framer | Paparazzi |
+| Coven Leader | School Bully's Bully |
+| Potion Master | Drugmaker |
+| Hex Master | Cursing TikToker |
+| Poisoner | Drug Dealer |
+| Medusa | Rock Hard |
+| Necromancer | Bad Necrophile |
+| Jester | Jest A Prank |
+| Executioner | Dirty Cop |
+| Witch | School Bully |
+| Vampire | Demon |
+| Pirate | Yar Har |
+| Plaguebearer | COVID-19 |
+| Pestilence, Horseman of the Apocalypse | AIDS, Progenator of STDs |
+| Survivor | Sussy Bussy |
+| Amnesiac | Forgor |
+| Guardian Angel | Helicopter Parent |
+| Arsonist | Firefighter |
+| Serial Killer | Stabbing Addict |
+| Werewolf | Furry |
+| Juggernaut | Steroids |
+| Town | Cringelord |
+| Mafia | Pizza Lover |
+| Coven | Bootleg Cultist |
+| Neutral | Narcissistic |
+| Deception | Liar |
+| Protective | Saver |
+| Killing | Psychopath |
+| Investigative | Journalist |
+| Support | Werido |
+| Evil | Villain |
+| Benign | Narcissist |
+| Chaos | Wrecker |
+| VIP | Chosen One |
+| Lover | Sibling |
+| Traitor | Turncoat |
+| Rival | Enemy |
+| Any | Anything |
+-----------------------
+
 # New messages!
 Messages have been reworded and worked on to blend with the new role names!
 
@@ -69,3 +141,4 @@ I think I may have gone off the handle to go out of my way to edit the achievmen
 # Other
 Need help regarding the file? Join my Discord! [I have yet to make a Discord, but it's in the making]
 The first release will be later today, starting with v1.0beta!
+This repo is WIP so some details will be missed out for now.
