@@ -46,7 +46,7 @@ I think I may have gone off the handle to go out of my way to edit the achievmen
 - BlankMediaGames for making Town of Salem - https://blankmediagames.com/TownOfSalem/
 
 # Installation
-1. Download the .rar file.
+1. Download the .rar file from the latest release.
 2. Open your Steam.
 3. Find 'Town Of Salem' and right click it.
 4. Go to 'Manage' ---> 'Browse Local Files'
