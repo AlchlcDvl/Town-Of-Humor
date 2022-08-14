@@ -136,9 +136,8 @@ I think I may have gone off the handle to go out of my way to edit the achievmen
 4. Follow the folder path 'TownOfSalem_Data' ---> 'StreamingAssets' ---> 'res' ---> 'WebAssets' ---> 'XMLData'.
 5. In the 'XMLData' folder find the file with the name 'StringTable.en-US.xml'.
 6. Delete that file and look for the file with the name 'StringTable.en-US-DEFAULT.xml'
-7. Rename the file by removing the '-DEFAULT' from its name, and you good to go!
+7. Remove the '-DEFAULT' from its name and save, and you're good to go!
 
 # Other
 Need help regarding the file? Join my Discord! [I have yet to make a Discord, but it's in the making]
-The first release will be later today, starting with v1.0beta!
-This repo is WIP so some details will be missed out for now.
+This repo is WIP so some details will be missing for now.
