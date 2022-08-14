@@ -5,7 +5,6 @@
 # Roles!
 Roles have been renamed to add to the haha funni factor! Here they are and their new names.
 
------------------------
 | Original Role | New Role |
 | ------------- | -------- |
 | Bodyguard | Manly Man |
@@ -75,7 +74,6 @@ Roles have been renamed to add to the haha funni factor! Here they are and their
 | Traitor | Turncoat |
 | Rival | Enemy |
 | Any | Anything |
------------------------
 
 # New messages!
 Messages have been reworded and worked on to blend with the new role names!
