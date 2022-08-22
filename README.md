@@ -56,7 +56,7 @@ Roles have been renamed to add to the haha funni factor! Here they are and their
 | Arsonist | Firefighter |
 | Serial Killer | Stabbing Addict |
 | Werewolf | Furry |
-| Juggernaut | Steroids |
+| Juggernaut | Musclehead |
 | Town | Cringelord |
 | Mafia | Pizza Lover |
 | Coven | Bootleg Cultist |
