@@ -23,7 +23,7 @@ Roles have been renamed to add to the haha funni factor! Here they are and their
 | Psychic | Drug Addict |
 | Transporter | Human Trafficker |
 | Mayor | Tax Evader |
-| Escort | Cringelord For Sale |
+| Escort | True Love |
 | Medium | Schizophrenic |
 | Retributionist | Good Necrophile |
 | Godfather | Overpaid |
@@ -34,7 +34,7 @@ Roles have been renamed to add to the haha funni factor! Here they are and their
 | Forger | School Nerd |
 | Hypnotist | Liar |
 | Consigliere | Evil Cop |
-| Consort | Pizza Lover For Sale |
+| Consort | One Night Stand |
 | Blackmailer | Mailman |
 | Framer | Paparazzi |
 | Coven Leader | School Bully's Bully |
@@ -50,7 +50,7 @@ Roles have been renamed to add to the haha funni factor! Here they are and their
 | Pirate | Yar Har |
 | Plaguebearer | COVID-19 |
 | Pestilence, Horseman of the Apocalypse | AIDS, Progenator of STDs |
-| Survivor | Sussy Bussy |
+| Survivor | Fake |
 | Amnesiac | Forgor |
 | Guardian Angel | Helicopter Parent |
 | Arsonist | Firefighter |
@@ -102,6 +102,7 @@ I think I may have gone off the handle to go out of my way to edit the achievmen
 - Changed 'Taunts' to 'Provocations'!
 - Made stats to be more consistent!
 - Changed buttons as well!
+- Changed the win screen messages!
 
 # Fixes!
 - Fixed errors in the base xml file!
