@@ -138,6 +138,6 @@ I think I may have gone off the handle to go out of my way to edit the achievmen
 7. Remove the '-DEFAULT' from its name and save, and you're good to go!
 
 # Other
-Need help regarding the file? Join my Discord! [I have yet to make a Discord, but it's in the making] 
+Need help regarding the file? Join my Discord [https://discord.gg/qqqF5WzTR6] !
 
 This repo is WIP so some details will be missing for now.
