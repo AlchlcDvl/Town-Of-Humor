@@ -1,4 +1,4 @@
-# NOTE: This is a Steam-only mod for Town of Salem, it will *NOT WORK* on other platforms. I will try my best to port them over to the Web and Mobile versions.
+# NOTE: This is a Steam-only mod for Town of Salem, it will *NOT WORK* on other platforms. I will try my best to port them over to the Web and Mobile versions once I'm done finalising the mod for the Steam version.
 
 # Changes
 
