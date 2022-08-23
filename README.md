@@ -1,4 +1,4 @@
-# NOTE: This is a Steam-only mod for Town of Salem, it will *NOT WORK* on other platforms.
+# NOTE: This is a Steam-only mod for Town of Salem, it will *NOT WORK* on other platforms. I will try my best to port them over to the Web and Mobile versions.
 
 # Changes
 
@@ -85,7 +85,8 @@ All roles and messages are color coded to add to the wow factor of this mod!
 A lot of the messages were of the "alert" status, so I've changed them to be more accurate based on their contents!
 
 # Role Cards!
-Role cards for each role have more info on them, even mentioning your limits!
+- Role cards for each role have more info on them, even mentioning your limits!
+- Added more tooltips to fit info I couldn't add!
 
 # Investigation Changes!
 - Blackmailers can now tell the difference between regular whispers and whispers they can read!
