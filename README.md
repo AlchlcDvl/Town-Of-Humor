@@ -23,7 +23,7 @@ Roles have been renamed to add to the haha funni factor! Here they are and their
 | Psychic | Drug Addict |
 | Transporter | Human Trafficker |
 | Mayor | Tax Evader |
-| Escort | True Love |
+| Escort | Stepsis |
 | Medium | Schizophrenic |
 | Retributionist | Good Necrophile |
 | Godfather | Overpaid |
@@ -34,7 +34,7 @@ Roles have been renamed to add to the haha funni factor! Here they are and their
 | Forger | School Nerd |
 | Hypnotist | Liar |
 | Consigliere | Evil Cop |
-| Consort | One Night Stand |
+| Consort | Stepmom |
 | Blackmailer | Mailman |
 | Framer | Paparazzi |
 | Coven Leader | School Bully's Bully |
@@ -76,17 +76,18 @@ Roles have been renamed to add to the haha funni factor! Here they are and their
 | Any | Anything |
 
 # New messages!
-Messages have been reworded and worked on to blend with the new role names!
+- Messages have been reworded and worked on to blend with the new role names!
 
 # Color Coding!
-All roles and messages are color coded to add to the wow factor of this mod!
+- All roles and messages are color coded to add to the wow factor of this mod!
 
 # Message Styles!
-A lot of the messages were of the "alert" status, so I've changed them to be more accurate based on their contents!
+- A lot of the messages were of the "alert" status, so I've changed them to be more accurate based on their contents!
 
 # Role Cards!
 - Role cards for each role have more info on them, even mentioning your limits!
 - Added more tooltips to fit info I couldn't add!
+- More details and color coding in role cards!
 
 # Investigation Changes!
 - Blackmailers can now tell the difference between regular whispers and whispers they can read!
@@ -96,7 +97,7 @@ A lot of the messages were of the "alert" status, so I've changed them to be mor
 - Spy evil visits are color coded for Mafia and Coven visits to avoid confusion! (I've been there before, trust me)
 
 # Achievements!
-I think I may have gone off the handle to go out of my way to edit the achievments as well.
+- I think I may have gone off the handle to go out of my way to edit the achievments as well.
 
 # Misc Changes!
 - Changed 'Scrolls' to 'Luck Stat Boosts'!
